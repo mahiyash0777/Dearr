@@ -1240,4 +1240,4 @@ async def text_handler(bot: Client, m: Message):
                     os.remove(f'{name}.{ext}')
                 except FloodWait as e:
                     await m.reply_text(str(e))
-                    time.sleep(e
+                    time.sleep()
