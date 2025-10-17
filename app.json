@@ -23,12 +23,12 @@
     },
     "BOT_TOKEN": {
       "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
-      "value": "8390366595:AAFnbW6VyXqY6_O_2zLf5CxpID_GaY7T8B4",
+      "value": "8490510367:AAFmP-ISuFx4ForE-8Q-E1d2SDGsYbjOeXA",
       "required": true
     },
     "OWNER": {
       "description": "𝙀𝙣𝙩𝙚𝙧 𝙔𝙤𝙪𝙧 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙄𝘿",
-      "value": "7547625729",
+      "value": "7547625729 , 1095085665",
       "required": true
     },
     "CREDIT": {
